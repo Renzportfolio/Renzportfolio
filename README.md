@@ -8,13 +8,13 @@ This repository contains my projects, documentation, and activities related to p
 - HTML
 - CSS
 - Java
-- Arduino
-- Networking
 
 ## Projects
 1. Calculator App
-2. Arduino LED Project
 3. Enrollment System Prototype
+
+## Projects  Screen shot
+
 
 ## Author
 Renz Kenneth Rosal
