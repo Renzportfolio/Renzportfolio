@@ -15,7 +15,9 @@ This repository contains my projects, documentation, and activities related to p
 
 ## Project Screenshot
 
-![Project Image](https://github.com/Renzportfolio/Renzportfolio/blob/447130abc238547d6e36c6726690e72571c2d77a/Screenshot_20260522_085621_ChatGPT.jpg)
+## Project Screenshot
+
+![Project Image]()
 
 
 ## Author
