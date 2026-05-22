@@ -17,7 +17,7 @@ This repository contains my projects, documentation, and activities related to p
 
 ## Project Screenshot
 
-![Project Image]()
+![Project Image](https://github.com/Renzportfolio/Renzportfolio/blob/a0b20ffcfb5dcc1e488b91833935f6825e6c7b97/file_0000000031ac71fa9859d2dcef769fe3.png)
 
 
 ## Author
