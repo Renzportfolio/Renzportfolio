@@ -1,16 +1,20 @@
-## Hi there 👋
+# My Portfolio
 
-<!--
-**Renzportfolio/Renzportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a Computer Engineering student.
 
-Here are some ideas to get you started:
+This repository contains my projects, documentation, and activities related to programming and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- Java
+- Arduino
+- Networking
+
+## Projects
+1. Calculator App
+2. Arduino LED Project
+3. Enrollment System Prototype
+
+## Author
+Renz Kenneth Rosal
