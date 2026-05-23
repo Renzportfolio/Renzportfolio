@@ -1,4 +1,4 @@
-## My Portfolio
+## CpE_Portfolio_Rosal_BSCpE3A
 
 Hello! I am a Computer Engineering student.
 
@@ -22,32 +22,3 @@ This repository contains my projects, documentation, and activities related to p
 
 ## Author
 Renz Kenneth Rosal
-
-CpE_Portfolio_Rosal Renzkenneth_BSCpE3A
-Personal Information
-Name
-Renz kenneth Rosal 
-
-Course & Section
-BS COM ENG
-
-About Me
-Hello! I am Renz kenneth Rosal, a Computer Engineering student who is interested in programming, web design, and technology projects. I enjoy learning coding and improving my technical skills.
-
-Skills & Technologies
-Basic Programming
-Python Programming
-HTML & CSS
-Problem Solving
-Computer Skills
-Documentation
-Featured Projects
-
-1. Login Screen Design
-Description
-A simple login screen UI design created for practice in user interface design.
-
-Technologies Used
-UI Design
-Mobile Layout Design
-Screenshot
