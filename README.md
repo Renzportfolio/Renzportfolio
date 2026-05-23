@@ -27,7 +27,7 @@ This repository contains my projects, documentation, and activities related to p
 
 ## Featured Project
 
-1. Screen design
+##1. Screen design
 ## Description 
 A simple login screen UI design created for practice in user interface design.
 
@@ -39,11 +39,35 @@ Mobile Layout Design
 
 ## Project Screenshot
 
-![Project Image](<a href="https://your-destination-url.com">
-  <img src="https://your-image-url.com" alt="Login Page">
-</a>
-)
+![Project Image]()
+
+##2. Calculator program
+
+## Description
+A Python calculator program that performs addition, subtraction, multiplication, and division.
+
+## Project Screenshot
+
+![Project Image]()
+
+## Simple Website Design
+## Description 
+A simple personal portfolio website created using HTML.
+
+## Technologies used 
+HTML
+CSS
+
+## Project Screenshot
+
+![Project Image](Screenshots/project1.jpg)
+
+## Technologies Used
+
+Python
+HTML
+CSS
+VS Code
 
 
-## Author
-Renz Kenneth Rosal
+
