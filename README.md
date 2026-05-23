@@ -33,13 +33,13 @@ A simple login screen UI design created for practice in user interface design.
 
 ## Technologies used
 
-UI Design
-Mobile Layout Design
+-UI Design
+-Mobile Layout Design
 
 
 ## Project Screenshot
 
-![Project Image]()
+![Project Image](https://kommodo.ai/i/0uAr0EzRsTMP6vxLUchJ)
 
 ##2. Calculator program
 
@@ -55,8 +55,8 @@ A Python calculator program that performs addition, subtraction, multiplication,
 A simple personal portfolio website created using HTML.
 
 ## Technologies used 
-HTML
-CSS
+-HTML
+-CSS
 
 ## Project Screenshot
 
@@ -64,10 +64,12 @@ CSS
 
 ## Technologies Used
 
-Python
-HTML
-CSS
-VS Code
+-Python
+-HTML
+-CSS
+-VS Code
+
+
 
 
 
