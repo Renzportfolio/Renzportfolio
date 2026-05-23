@@ -1,5 +1,11 @@
 ## CpE_Portfolio_Rosal_BSCpE3A
 
+## Personal Information
+## Name
+Renz kenneth Rosal 
+## Course / Section
+Bs Com eng
+
 Hello! I am a Computer Engineering student.
 
 This repository contains my projects, documentation, and activities related to programming and technology.
