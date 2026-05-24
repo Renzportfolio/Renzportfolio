@@ -5,7 +5,8 @@
 Renz kenneth Rosal 
 ## Course / Section
 Bs Com eng
-##About me
+
+## About me
 
 Hello! I am a Computer Engineering student.
 This repository contains my projects, documentation, and activities related to programming and technology.
@@ -50,13 +51,19 @@ A Python calculator program that performs addition, subtraction, multiplication,
 
 ![Project Image](python_calculator_photo-1.png)
 
-## Simple Website Design
+## Power supply 
 ## Description 
-A simple personal portfolio website created using HTML.
 
-## Technologies used 
-- HTML
-- CSS
+A power supply is an electronic device that provides electrical energy to a circuit or electronic equipment.
+
+## Components used
+ 
+- Transformer
+- Diodes
+- Capacitor
+- Voltage Regulator (7805)
+- LED Indicator
+- Resistor
 
 ## Project Screenshot
 
