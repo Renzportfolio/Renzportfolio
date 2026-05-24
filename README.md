@@ -26,21 +26,22 @@ This repository contains my projects, documentation, and activities related to p
 
 ## Featured Project
 
-##1. Screen design
+## 1. Screen design
+
 ## Description 
 A simple login screen UI design created for practice in user interface design.
 
 ## Technologies used
 
--UI Design
--Mobile Layout Design
+- UI Design
+- Mobile Layout Design
 
 
 ## Project Screenshot
 
-![Project Image](python_calculator_photo-1.png)
+![Project Image](https://github.com/Renzportfolio/Renzportfolio/blob/57b526767398a567b8410d740f84238c85989267/Screenshot_20260523_230522_Gallery.jpg)
 
-##2. Calculator program
+## 2. Calculator program
 
 ## Description
 A Python calculator program that performs addition, subtraction, multiplication, and division.
@@ -54,8 +55,8 @@ A Python calculator program that performs addition, subtraction, multiplication,
 A simple personal portfolio website created using HTML.
 
 ## Technologies used 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Project Screenshot
 
