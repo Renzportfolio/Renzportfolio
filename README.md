@@ -5,7 +5,6 @@
 Renz kenneth Rosal 
 ## Course / Section
 Bs Com eng
-
 ##About me
 
 Hello! I am a Computer Engineering student.
@@ -23,7 +22,7 @@ This repository contains my projects, documentation, and activities related to p
 ## Projects
 
 1. Calculator App
-3. Enrollment System Prototype
+2. Enrollment System Prototype
 
 ## Featured Project
 
@@ -48,7 +47,7 @@ A Python calculator program that performs addition, subtraction, multiplication,
 
 ## Project Screenshot
 
-![Project Image]()
+![Project Image](python_calculator_photo-1.png)
 
 ## Simple Website Design
 ## Description 
