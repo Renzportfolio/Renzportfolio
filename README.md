@@ -39,7 +39,7 @@ A simple login screen UI design created for practice in user interface design.
 
 ## Project Screenshot
 
-![Project Image](https://kommodo.ai/i/0uAr0EzRsTMP6vxLUchJ)
+![Project Image](python_calculator_photo-1.png)
 
 ##2. Calculator program
 
