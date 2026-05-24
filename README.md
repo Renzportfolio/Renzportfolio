@@ -67,14 +67,18 @@ A power supply is an electronic device that provides electrical energy to a circ
 
 ## Project Screenshot
 
-![Project Image](Screenshots/project1.jpg)
+![Project Image](https://github.com/Renzportfolio/Renzportfolio/blob/7a0fcd4a5af92e35469d4678acd7bfe61c7dd400/20260524_113558.jpg)
 
 ## Technologies Used
 
--Python
--HTML
--CSS
--VS Code
+- Electronics
+- Breadboard Assembly
+- PCB design
+
+
+## Contact Information
+
+Github: 
 
 
 
